@@ -2,9 +2,9 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-const char* ssid = "Engineersays";     // Change this to your WiFi SSID
-const char* password = "abcd1234$#"; // Change this to your WiFi password
-const char* serverUrl = "http://stemotix.com/waiter.php"; // Change this to your server URL
+const char* ssid = "****";     // Change this to your WiFi SSID
+const char* password = "****"; // Change this to your WiFi password
+const char* serverUrl = "http://****.***/waiter.php"; // Change this to your server URL
 
 const int buttonPin = 14; // The GPIO pin where the button is connected
 
